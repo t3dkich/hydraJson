@@ -7,14 +7,6 @@
   ],
   "timestamp": "2021-05-24T20:37:00.000+00:00",
   "tokens": [
-	{
-      "chainId": 1,
-      "address": "0000000000000000000000000000000000000000",
-      "name": "HYDRA",
-      "symbol": "HYDRA",
-      "decimals": 8,
-      "logoURI": ""
-    },
     {
       "chainId": 1,
       "address": "84c83f8ad670c57796ce252263ebcd70dc719247",
