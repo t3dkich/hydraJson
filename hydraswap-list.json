@@ -37,7 +37,7 @@
       "name": "Wrapped Hydra",
       "symbol": "WHYDRA",
       "decimals": 8,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/hydra-logo.png"
     },
     {
       "chainId": 1,
