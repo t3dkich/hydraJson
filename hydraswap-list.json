@@ -42,10 +42,10 @@
     {
       "chainId": 1,
       "address": "4ab26aaa1803daa638910d71075c06386e391147",
-      "name": "LockTrip,
+      "name": "LockTrip",
       "symbol": "LOC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/LockTrip_LOC_400x400.jpg"
+      "logoURI": ""
     }
   ],
   "version": {
