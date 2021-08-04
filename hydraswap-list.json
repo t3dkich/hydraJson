@@ -54,11 +54,19 @@
       "symbol": "TEST",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/LockTrip_LOC_400x400.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "4ab26aaa1803daa638910d71075c06386e391133",
+      "name": "TEST2",
+      "symbol": "TEST2",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/LockTrip_LOC_400x400.jpg"
     }
   ],
   "version": {
     "major": 3,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
