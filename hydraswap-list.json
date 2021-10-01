@@ -9,35 +9,11 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "84c83f8ad670c57796ce252263ebcd70dc719247",
-      "name": "Token A",
-      "symbol": "TA",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/token_icon.jpg"
-    },
-    {
-      "chainId": 1,
-      "address": "54529f2f53d645ddf2116abd07ac1a9eb841ff31",
-      "name": "Token B",
-      "symbol": "TB",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/token_icon.jpg"
-    },
-    {
-      "chainId": 1,
-      "address": "72634dc37f9ac7a69fdb5b16605e386fa5586dec",
-      "name": "Token C",
-      "symbol": "TC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/token_icon.jpg"
-    },
-    {
-      "chainId": 1,
       "address": "6d9115a21863ce31b44cd231e4c4ccc87566222f",
       "name": "Wrapped Hydra",
       "symbol": "WHYDRA",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/hydra-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/6d9115a21863ce31b44cd231e4c4ccc87566222f.png"
     },
     {
       "chainId": 1,
@@ -45,24 +21,8 @@
       "name": "LockTrip",
       "symbol": "LOC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/LockTrip_LOC_400x400.jpg"
+      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/4ab26aaa1803daa638910d71075c06386e391147.jpg"
     },
-    {
-      "chainId": 1,
-      "address": "4ab26aaa1803daa638910d71075c06386e391156",
-      "name": "TEST",
-      "symbol": "TEST",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/LockTrip_LOC_400x400.jpg"
-    },
-    {
-      "chainId": 1,
-      "address": "4ab26aaa1803daa638910d71075c06386e391133",
-      "name": "TEST2",
-      "symbol": "TEST2",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/LockTrip_LOC_400x400.jpg"
-    }
   ],
   "version": {
     "major": 3,
